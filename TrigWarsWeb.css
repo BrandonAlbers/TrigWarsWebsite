@@ -1,0 +1,25 @@
+#MainBody {
+    background-image: url(SpaceImage2.jpg);
+    background-size: 100%;
+}
+#Header {
+    background-image: linear-gradient(black, purple);
+    width: 50%;
+    margin:auto;
+}
+#FooterOfPage {
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+#FooterInfo {
+    background-image: linear-gradient(purple, black);
+    width: 50%;
+    margin:auto;
+}
+/* table, th, td {
+    border: 1px solid red;
+  } */
